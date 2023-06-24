@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-      <title>Document</title>
-      <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
       <section id="home">
