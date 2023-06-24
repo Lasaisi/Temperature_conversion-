@@ -2,7 +2,7 @@
 <html>
   <head>
     <!-- This is your page title that appears on the browser window or tab -->
-    <title>Unit Conversions</title>
+    
   </head>
   <body>
       <section id="home">
@@ -31,8 +31,7 @@
                 <fieldset>
                     <legend>Temperature</legend>
                    
-                    <!-- The fields and button for temperature input will come here -->
-                  <!-- Label for Temperature input -->
+                
   <label for="Temperature">Celsius</label> <br/>
   <input type="number" id="c"> <br/>
   <!-- Label for Temperature output -->
